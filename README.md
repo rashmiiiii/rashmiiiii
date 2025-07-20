@@ -18,7 +18,7 @@
 
 ![](https://nirzak-streak-stats.vercel.app/?user=rashmiiiii&theme=merko&hide_border=false&v=1)<br/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rashmiiiii&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact&v=1)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rashmiiiii&theme=merko&hide_border=false&include_all_commits=false&count_private=true&layout=compact&v=1)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --> 
