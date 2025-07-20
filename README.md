@@ -18,7 +18,6 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=rashmiiiii&theme=merko&hide_border=false&include_all_commits=false&count_private=false&v=1)<br/>
 
-![](https://nirzak-streak-stats.vercel.app/?user=rashmiiiii&theme=merko&hide_border=false&v=1)<br/>
 
 
 
